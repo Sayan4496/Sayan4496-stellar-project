@@ -56,4 +56,4 @@ Travel Booking
 ## 👨‍💻 Author
 Sayan
 <img width="3839" height="2206" alt="image" src="https://github.com/user-attachments/assets/d73434d4-5f58-406c-8676-0f9f1efa1a23" />
-pagr link-https://stellar.expert/explorer/testnet/contract/CC6WGPK36DBW2B3SENKQTPGHGGZRXC5Q3GKJRQXI6Z5WLULU72N2Q6N7
+page link-https://stellar.expert/explorer/testnet/contract/CC6WGPK36DBW2B3SENKQTPGHGGZRXC5Q3GKJRQXI6Z5WLULU72N2Q6N7
